@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+  width: 1000px;
+  border: solid 2px;
+  border-collapse: collapse;
+}
+
+td {
+  text-align: center;
+  width: 200px;
+  height: 40px;
+  border: solid 2px;
+}
+
+tr:first-child {
+  font-weight: bold;
+  background-color: #008000;
+}
+
+.third__cell {
+  background-color: #4682b4;
+}
+
+.fourth__cell {
+  background-color: #4682b4;
+}
